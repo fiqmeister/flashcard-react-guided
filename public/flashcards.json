@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "front": "What is the capital of France?",
+        "back": "Paris"
+    },
+    {
+        "id": 2,
+        "front": "What is 2 + 2?",
+        "back": "4"
+    },
+    {
+        "id": 3,
+        "front": "Who wrote \"Romeo and Juliet\"?",
+        "back": "William Shakespeare"
+    },
+    {
+        "id": 4,
+        "front": "What is the largest planet in our solar system?",
+        "back": "Jupiter"
+    },
+    {
+        "id": 5,
+        "front": "What does HTML stand for?",
+        "back": "HyperText Markup Language"
+    },
+    {
+        "id": 6,
+        "front": "What year did World War II end?",
+        "back": "1945"
+    },
+    {
+        "id": 7,
+        "front": "What is 2 + 2?",
+        "back": "4"
+    }
+]
